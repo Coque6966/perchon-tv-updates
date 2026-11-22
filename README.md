@@ -1,20 +1,41 @@
-# Perchon TV — archivos de actualizacion para GitHub Pages
+# Perchon TV — Update files
 
-Repo destino (A CREAR): Coque6966/perchon-tv-updates (publico)
-GitHub Pages: https://coque6966.github.io/perchon-tv-updates/
+Update server for **Perchon TV** (movies, series and live TV) and **Coque Tube** (ad-free YouTube), served through GitHub Pages. The apps check the JSON manifests below for new versions and update themselves — no reinstall needed.
 
-## Archivos
-- coque-tv-tv-update.json  -> TV, v1.9.6 (code 17), APK coque-tv-tv-v1.9.6.apk
-- coque-tv-update.json     -> telefono, v1.5.5 (code 11), APK coque-tv-v1.5.5.apk
+Live site: https://coque6966.github.io/perchon-tv-updates/
 
-## Publicar (cuando el repo exista y haya credencial con escritura)
-cd ~/perchon-tv-pages && git init -b main && git add . && git commit -m "Perchon TV v1.9.6 TV + v1.5.5 telefono" && git remote add origin <remote-del-repo> && git push -u origin main
-Luego en GitHub: Settings > Pages > Source: Deploy from a branch, main / (root).
-Verificar: curl -sI https://coque6966.github.io/perchon-tv-updates/coque-tv-update.json
+Developed by Jorge Arturo Rodríguez Araujo (Coque6966), Mexico.
 
-## PROHIBIDO
-NUNCA subir remote-kit.json aqui: contiene el acceso al portal. Solo estos 4 archivos.
+## Current versions
 
-## Actualizar una version nueva
-Copiar el APK nuevo a este directorio y reescribir su apkUrl en el JSON
-correspondiente a https://coque6966.github.io/perchon-tv-updates/<apk>, commit y push.
+| App | Platform | Version | Package |
+|---|---|---|---|
+| Perchon TV | Android TV | v1.9.12 | coque-tv-tv-v1.9.12.apk |
+| Perchon TV | Fire TV | v1.9.12 | perchon-tv-firestick-v1.9.12.apk |
+| Perchon TV | Phone (Android) | v1.5.6 | coque-tv-v1.5.6.apk |
+| Perchon TV | Roku | v5.7 | perchon-tv-roku-v5.7.zip |
+| Perchon TV | LG webOS | v1.0.3 | coque-tv-webos-v1.0.3.ipk |
+| Perchon TV | Samsung Tizen | v1.0.3 | coque-tv-tizen-v1.0.3.wgt |
+| Coque Tube | Android TV | v2439 (32.48) | coque-tube-v2439.apk |
+| Coque Tube | Fire TV | v2439 (32.48) | coque-tube-firestick-v2439.apk |
+| Coque Tube | Roku | v1.0.6 | coque-tube-roku-v1.0.6.zip |
+| Coque Tube | LG webOS | v1.0.2 | coque-tube-webos-v1.0.2.ipk |
+| Coque Tube | Samsung Tizen | v1.0.2 | coque-tube-tizen-v1.0.2.wgt |
+
+Older Perchon TV builds (v1.9.6–v1.9.11) are kept in this repo as rollback versions.
+
+## Update manifests
+
+- `coque-tv-tv-update.json` — Perchon TV for Android TV / Fire TV
+- `coque-tv-update.json` — Perchon TV for phone
+- `coque-tube-update.json` — Coque Tube for Android TV / Fire TV
+
+Each manifest points to its APK on this same site. To publish a new version: copy the new APK into this directory, update its `apkUrl` in the matching JSON, commit and push. GitHub Pages serves the new manifest immediately.
+
+## DO NOT upload
+
+**Never upload `remote-kit.json` here: it contains access to the update portal.** Only the manifests and the app packages listed above belong in this repo.
+
+## Status
+
+Perchon TV v1.9.12 is installed and verified on a real TCL Android TV (65", Android 11). Coque Tube v2439 is installed on the same TV. Roku, webOS and Tizen packages are built and published here; they have not yet been verified on a real TV of each platform.
