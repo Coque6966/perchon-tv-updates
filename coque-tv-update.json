@@ -1,0 +1,6 @@
+{
+  "versionCode": 11,
+  "versionName": "1.5.5",
+  "apkUrl": "https://coque6966.github.io/perchon-tv-updates/coque-tv-v1.5.5.apk",
+  "notes": "RENOMBRE: la app ahora se llama Perchon TV. Mismo arreglo que TV v1.9.4: la sesion pateada (aaa100083 cuenta en otro dispositivo) se renueva sola y reintenta; el error 500 del portal reintenta una vez; si el vivo falla, las peliculas igual cargan."
+}
