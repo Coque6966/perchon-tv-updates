@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "mx-8ntv",
+    "name": "8NTV",
+    "logo": "https://i.imgur.com/7ecgGIG.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-15tv",
+    "name": "15TV",
+    "logo": "https://i.imgur.com/CZ8LKmA.png",
+    "url": "https://servilive.com:3380/live/v3n6thy7glive.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-acustik-tv",
+    "name": "Acustik TV",
+    "logo": "https://i.imgur.com/dhiNIng.png",
+    "url": "https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "mx-adn-40",
+    "name": "ADN 40",
+    "logo": "https://i.imgur.com/Og17U9N.png",
+    "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "mx-alcance-tv-mexico",
+    "name": "Alcance TV (Mexico)",
+    "logo": "https://i.imgur.com/5nYjRlb.png",
+    "url": "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-amx-noticias-720p-not-24-7",
+    "name": "AMX Noticias (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/snIU1UA.jpg",
+    "url": "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "mx-antena-tv",
+    "name": "Antena TV",
+    "logo": "https://i.imgur.com/1sAgSME.png",
+    "url": "https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-asi-sucede-guanajuato-720p-not-24-7",
+    "name": "Asi Sucede Guanajuato (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/6W7HUtG.png",
+    "url": "https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-azteca-uno-1",
+    "name": "Azteca Uno +1",
+    "logo": "https://i.imgur.com/rRxgBtI.png",
+    "url": "https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-b15-fresnillo",
+    "name": "B15 Fresnillo",
+    "logo": "https://i.imgur.com/kaUhEQy.png",
+    "url": "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-b15-zacatecas",
+    "name": "B15 Zacatecas",
+    "logo": "https://i.imgur.com/kaUhEQy.png",
+    "url": "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-bamos-tv-1080p-not-24-7",
+    "name": "BAMOS TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ntK4D64.png",
+    "url": "https://video2.getstreamhosting.com:19360/8092/8092.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-bitme",
+    "name": "bitMe",
+    "logo": "https://i.imgur.com/79hrcx8.png",
+    "url": "https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-california-medios-tv",
+    "name": "California Medios TV",
+    "logo": "https://i.imgur.com/IDvpRNI.png",
+    "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-5-tv-cozumel",
+    "name": "Canal 5 TV Cozumel",
+    "logo": "https://i.imgur.com/0nzNMuP.jpeg",
+    "url": "https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-10-cancun-720p-not-24-7",
+    "name": "Canal 10 Cancun (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/TvTn3hO.png",
+    "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-10-durango",
+    "name": "Canal 10 Durango",
+    "logo": "https://i.imgur.com/H34quHQ.png",
+    "url": "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-13-bajio-720p-not-24-7",
+    "name": "Canal 13 Bajio (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SlycKgZ.png",
+    "url": "https://stream-207963.castr.net/65313d270e749722b6474684/live_1c690d40dfb711eeabd66ba1b9ba93a1/index.fmp4.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-13-campeche-720p-not-24-7",
+    "name": "Canal 13 Campeche (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SlycKgZ.png",
+    "url": "https://stream-207963.castr.net/65313d270e749722b6474684/live_38c14fb0dfbd11ee8847c303f3096501/index.fmp4.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-13-chiapas-720p-not-24-7",
+    "name": "Canal 13 Chiapas (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SlycKgZ.png",
+    "url": "https://stream-207963.castr.net/65313d270e749722b6474684/live_55784330f36711ee97a7a19a8448730c/index.fmp4.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-13-guadalajara-720p-not-24-7",
+    "name": "Canal 13 Guadalajara (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SlycKgZ.png",
+    "url": "https://stream-207963.castr.net/65313d270e749722b6474684/live_fa0ed380dfbe11eeabd66ba1b9ba93a1/index.fmp4.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-13-michoacan-720p-not-24-7",
+    "name": "Canal 13 Michoacan (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SlycKgZ.png",
+    "url": "https://stream-207963.castr.net/65313d270e749722b6474684/live_0424eb20dfbf11ee821911a0b6ba5091/index.fmp4.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-13-oaxaca-720p-not-24-7",
+    "name": "Canal 13 Oaxaca (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SlycKgZ.png",
+    "url": "https://stream-207963.castr.net/65313d270e749722b6474684/live_0bd65ed0dfbf11ee848c53d8a686e201/index.fmp4.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-13-puebla-720p-not-24-7",
+    "name": "Canal 13 Puebla (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SlycKgZ.png",
+    "url": "https://stream-207963.castr.net/65313d270e749722b6474684/live_19c1e870dfbf11eeadd41749c3286f4a/index.fmp4.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-13-tabasco-720p-not-24-7",
+    "name": "Canal 13 Tabasco (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SlycKgZ.png",
+    "url": "https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-13-tapachula-720p-not-24-7",
+    "name": "Canal 13 Tapachula (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SlycKgZ.png",
+    "url": "https://stream-207963.castr.net/65313d270e749722b6474684/live_2b589fc0dfbf11ee9ce13534ca2a46c3/index.fmp4.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-22-nacional-720p-geo-blocked",
+    "name": "Canal 22 Nacional (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/6qiYvhe.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-26-mexico",
+    "name": "Canal 26 (Mexico)",
+    "logo": "https://i.imgur.com/PAvnVN9.png",
+    "url": "https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-28-720p-not-24-7",
+    "name": "Canal 28 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/lr4MZFg.png",
+    "url": "https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-30-cintalapa-720p-not-24-7",
+    "name": "Canal 30 Cintalapa (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/xv13N7q.jpg",
+    "url": "https://rpn3.bozztv.com/ssh101/ssh101/canal30mx/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-33-tijuana",
+    "name": "Canal 33 Tijuana",
+    "logo": "https://iili.io/JCt1Nbn.png",
+    "url": "https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-44-720p-not-24-7",
+    "name": "Canal 44 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/YDp8MlN.png",
+    "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-del-congreso-45-1",
+    "name": "Canal del Congreso 45.1",
+    "logo": "https://i.imgur.com/xAC6gQO.png",
+    "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-once",
+    "name": "Canal Once",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png",
+    "url": "https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-canal-parlamento-del-congreso-de-jalisco-720p-not-24-7",
+    "name": "Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fLpkHfZ.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-capital-21-1080p-not-24-7",
+    "name": "Capital 21 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/8ign49i.png",
+    "url": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-cb-tv-michoacan",
+    "name": "CB TV Michoacan",
+    "logo": "https://i.imgur.com/oFeCIeD.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-conecta-tv",
+    "name": "Conecta TV",
+    "logo": "https://i.imgur.com/qEk0QGa.png",
+    "url": "https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8",
+    "group": "Música"
+  },
+  {
+    "id": "mx-crealatv",
+    "name": "CreaLaTV",
+    "logo": "https://i.imgur.com/Bnjj29f.png",
+    "url": "https://stream.crealatv.com/live.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-despierta-tv-1080p-not-24-7",
+    "name": "Despierta TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/hywjKNo.jpg",
+    "url": "https://video2.lhdserver.es/despiertatv/live.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-eclipse-tv",
+    "name": "Eclipse TV",
+    "logo": "https://i.imgur.com/GiDD8xG.jpg",
+    "url": "https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-el-chavo-tv",
+    "name": "El Chavo TV",
+    "logo": "https://gia.tv/streams/pptv/211465.png",
+    "url": "https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8",
+    "group": "Infantil"
+  },
+  {
+    "id": "mx-el-sonorense-1080p-not-24-7",
+    "name": "El Sonorense (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/aKvPd4g.jpg",
+    "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-estrella-games",
+    "name": "Estrella Games",
+    "logo": "https://i.imgur.com/Z52nEnH.png",
+    "url": "https://estrella-games-oando.amagi.tv/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-estrella-news",
+    "name": "Estrella News",
+    "logo": "https://i.imgur.com/HRrkhLq.png",
+    "url": "https://estrella-news-oando.amagi.tv/playlist.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "mx-estrella-tv",
+    "name": "Estrella TV",
+    "logo": "https://i.imgur.com/IZxjnyp.png",
+    "url": "https://estrellatv-oando.amagi.tv/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-expresa-tv",
+    "name": "Expresa TV",
+    "logo": "https://i.imgur.com/kFVVGrg.png",
+    "url": "https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-filmex-1080p-geo-blocked",
+    "name": "Filmex (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/Hiz2OyC.png",
+    "url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "mx-filmex-clasico-1080p-geo-blocked",
+    "name": "Filmex Clasico (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/D3dj4mv.png",
+    "url": "https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "mx-giktvmx",
+    "name": "GikTVMX",
+    "logo": "https://i.imgur.com/Gwz78jZ.png",
+    "url": "https://pistream.ddns.net/hls/stream.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-icrtv-colima",
+    "name": "Icrtv Colima",
+    "logo": "https://i.imgur.com/iUks0ot.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-iertbcs-canal-8-2-1080p-not-24-7",
+    "name": "IERTBCS Canal 8.2 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/R3icGuG.png",
+    "url": "https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-ilce-canal-15-summa-saberes",
+    "name": "ILCE Canal 15 Summa Saberes",
+    "logo": "https://i.imgur.com/r7czgOc.png",
+    "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-imagen-tv",
+    "name": "Imagen TV",
+    "logo": "https://i.imgur.com/lKrRvtS.png",
+    "url": "https://igd-it-runtime.otteravision.com/igd/it/it.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-ingenio-tv-720p-geo-blocked",
+    "name": "Ingenio TV (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/pAppH1M.png",
+    "url": "https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-itv-deportes",
+    "name": "ITV Deportes",
+    "logo": "https://iili.io/J1kV1Bn.png",
+    "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-jalisco-tv",
+    "name": "Jalisco TV",
+    "logo": "https://i.imgur.com/N4meE8I.png",
+    "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-justicia-tv-mexico",
+    "name": "Justicia TV (Mexico)",
+    "logo": "https://i.imgur.com/zyAS1hk.png",
+    "url": "https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-las-estrellas",
+    "name": "Las Estrellas",
+    "logo": "https://i.imgur.com/g5ShxZ7.png",
+    "url": "https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-lifetime-latin-america-mexico",
+    "name": "Lifetime Latin America Mexico",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
+    "url": "https://streaming.onnethn.com/LIFETIME/index.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-lobo-tv",
+    "name": "Lobo TV",
+    "logo": "https://i.imgur.com/3fA50RJ.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
+    "group": "Música"
+  },
+  {
+    "id": "mx-mexiquense-tv",
+    "name": "Mexiquense TV",
+    "logo": "https://i.imgur.com/iVfzakA.png",
+    "url": "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-milenio-television",
+    "name": "Milenio Television",
+    "logo": "https://i.imgur.com/TG1T5Oh.png",
+    "url": "https://jmp2.uk/plu-652e922db4b047000825f975.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "mx-monte-maria",
+    "name": "Monte Maria",
+    "logo": "https://i.imgur.com/0rMHbbM.png",
+    "url": "https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-multimedios-bajio-720p-not-24-7",
+    "name": "Multimedios Bajio (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-multimedios-cdmx-720p-not-24-7",
+    "name": "Multimedios CDMX (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-multimedios-ciudad-juarez-720p-not-24-7",
+    "name": "Multimedios Ciudad Juarez (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-multimedios-guadalajara-720p-not-24-7",
+    "name": "Multimedios Guadalajara (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-multimedios-laguna-720p-not-24-7",
+    "name": "Multimedios Laguna (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-multimedios-monterrey-720p-not-24-7",
+    "name": "Multimedios Monterrey (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-multimedios-puebla-720p-not-24-7",
+    "name": "Multimedios Puebla (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-multimedios-saltillo-720p-not-24-7",
+    "name": "Multimedios Saltillo (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4IGzNdq.png",
+    "url": "https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-mvs-tv-geo-blocked",
+    "name": "MVS TV [Geo-blocked]",
+    "logo": "https://i.imgur.com/TcB37yV.png",
+    "url": "https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-mytime-movie-network-mexico",
+    "name": "MyTime Movie Network (Mexico)",
+    "logo": "https://i.imgur.com/pw4NZK1.png",
+    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "mx-nayarit-comunica",
+    "name": "Nayarit Comunica",
+    "logo": "https://i.imgur.com/aZCTkjU.jpg",
+    "url": "https://live.iplanay.gob.mx/hls/nayarittv.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-nick-jr-latin-america",
+    "name": "Nick Jr. Latin America",
+    "logo": "https://i.imgur.com/KT4tdQs.png",
+    "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
+    "group": "Infantil"
+  },
+  {
+    "id": "mx-nueve-tv",
+    "name": "Nueve TV",
+    "logo": "https://i.imgur.com/3fzB7zY.png",
+    "url": "https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-popcorn-central",
+    "name": "Popcorn Central",
+    "logo": "https://i.imgur.com/ULGVjyC.png",
+    "url": "https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "mx-presumiendo-mexico",
+    "name": "Presumiendo Mexico",
+    "logo": "https://i.imgur.com/bFG4Rqz.png",
+    "url": "https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-psn-288p",
+    "name": "PSN (288p)",
+    "logo": "https://i.imgur.com/7i7GkSL.png",
+    "url": "https://srspsn.live/live/livestream.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-psn-canal-45-2-288p",
+    "name": "PSN Canal 45.2 (288p)",
+    "logo": "https://i.imgur.com/7i7GkSL.png",
+    "url": "https://srspsn2.live/live/livestream.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "mx-radio-y-television-crisol-de-la-alegria-1080p-not-24-7",
+    "name": "Radio y Television Crisol de la Alegria (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/EW2z5Ko.jpg",
+    "url": "https://omegaingenieria.com:19360/CRisolTVdigital-Live_abr/CRisolTVdigital-Live_abr.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-radiotele-352p",
+    "name": "Radiotele (352p)",
+    "logo": "https://i.imgur.com/XpcCZvu.png",
+    "url": "http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-raly-tv",
+    "name": "Raly TV",
+    "logo": "https://i.imgur.com/W8a1dIa.png",
+    "url": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-rcg-tv-2-360p-not-24-7",
+    "name": "RCG TV 2 (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/hXs9b7v.png",
+    "url": "https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-rcg-tv",
+    "name": "RCG TV",
+    "logo": "https://i.imgur.com/kYtAR26.png",
+    "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-rtq-queretaro",
+    "name": "RTQ Queretaro",
+    "logo": "https://i.imgur.com/RRckCvf.png",
+    "url": "https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-sicom-television-xhpbzc-tdt-720p-not-24-7",
+    "name": "SICOM Television XHPBZC-TDT (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/dbJKErB.png",
+    "url": "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-sipse-tv-8-1-1080p-not-24-7",
+    "name": "SIPSE TV 8.1 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/123P7dV.png",
+    "url": "https://webprod.sipse.com.mx:8080/show/merida.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-sipse-tvcun-8-1-1080p-not-24-7",
+    "name": "SIPSE TVCUN 8.1 (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uiTgClU.png",
+    "url": "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-sistema-michoacano-de-tv-1080p-not-24-7",
+    "name": "Sistema Michoacano de TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/7MXF4Fd.png",
+    "url": "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-sqcs-canal-4",
+    "name": "SQCS Canal 4",
+    "logo": "https://i.imgur.com/qnx8nBP.png",
+    "url": "https://video0.rogohosting.com:19360/4982/4982.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-super-channel-12",
+    "name": "Super Channel 12",
+    "logo": "https://i.imgur.com/dLHIvKz.png",
+    "url": "https://servilive.com:3263/live/channel12live.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tele-4-ojocaliente",
+    "name": "TELE 4 Ojocaliente",
+    "logo": "https://i.imgur.com/TkzIqR2.jpg",
+    "url": "https://stream.oursnetworktv.com/latin/encoder53/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tele-6",
+    "name": "TELE 6",
+    "logo": "https://i.imgur.com/p7tt72X.png",
+    "url": "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tele-saltillo",
+    "name": "Tele Saltillo",
+    "logo": "https://i.imgur.com/PgBtvgO.png",
+    "url": "https://servilive.com:3879/live/telesaltillolive.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tele-uv-not-24-7",
+    "name": "Tele UV [Not 24/7]",
+    "logo": "https://i.imgur.com/8MdUH69.jpeg",
+    "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tele-yucatan-1080p-geo-blocked",
+    "name": "Tele Yucatan (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/XkpDSmO.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-teleformula",
+    "name": "TeleFormula",
+    "logo": "https://i.imgur.com/y0a0xwY.png",
+    "url": "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-telemax-mexico-xewh-tdt",
+    "name": "Telemax (Mexico) XEWH-TDT",
+    "logo": "https://i.imgur.com/klhTyDU.png",
+    "url": "https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-teleplay-sureste",
+    "name": "Teleplay Sureste",
+    "logo": "https://i.imgur.com/MeV5N08.png",
+    "url": "https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-teleritmo-720p-not-24-7",
+    "name": "Teleritmo (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/9s380Bz.png",
+    "url": "https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-the-pet-collective-mexico",
+    "name": "The Pet Collective Mexico",
+    "logo": "https://i.imgur.com/yH7n2dF.png",
+    "url": "https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tlaxcala-tv-360p-not-24-7",
+    "name": "Tlaxcala TV (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/5vaEhfy.png",
+    "url": "https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-trc-tv",
+    "name": "TRC TV",
+    "logo": "https://i.imgur.com/W4xwCdl.png",
+    "url": "https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-turistik-tv",
+    "name": "Turistik TV",
+    "logo": "https://i.imgur.com/g9j0ze8.png",
+    "url": "https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-buap",
+    "name": "TV BUAP",
+    "logo": "https://i.imgur.com/hHrIn0r.png",
+    "url": "https://tvenvivo.buap.mx/livestream/stream/index.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-cuatro-4-1",
+    "name": "TV Cuatro 4.1",
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/tv4gto/tv4gto.smil/.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-cuatro-4-2",
+    "name": "TV Cuatro 4.2",
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "url": "https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-cuatro-4-3",
+    "name": "TV Cuatro 4.3",
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "mx-tv-cuatro-4-4",
+    "name": "TV Cuatro 4.4",
+    "logo": "https://i.imgur.com/Of044Jx.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-guanajuato",
+    "name": "TV Guanajuato",
+    "logo": "https://i.imgur.com/HbnCZSF.png",
+    "url": "https://stream.oursnetworktv.com/latin/tvguanajuato/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-independencia",
+    "name": "TV Independencia",
+    "logo": "https://i.imgur.com/kuyQvUP.png",
+    "url": "https://stream.oursnetworktv.com/latin/tvindependencia/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-libertad",
+    "name": "TV Libertad",
+    "logo": "https://i.imgur.com/yvbhH8c.png",
+    "url": "https://stream.oursnetworktv.com/latin/tvlibertad/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-lobo",
+    "name": "TV Lobo",
+    "logo": "https://i.imgur.com/q9p1Spj.png",
+    "url": "https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-mar-la-paz",
+    "name": "TV Mar La Paz",
+    "logo": "https://i.imgur.com/z9iVlMn.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-mar-los-cabos",
+    "name": "TV Mar Los Cabos",
+    "logo": "https://i.imgur.com/z9iVlMn.png",
+    "url": "https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-mar-puerto-vallarta",
+    "name": "TV Mar Puerto Vallarta",
+    "logo": "https://i.imgur.com/z9iVlMn.png",
+    "url": "https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-migrante",
+    "name": "TV Migrante",
+    "logo": "https://i.imgur.com/tVgkiJF.png",
+    "url": "https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-ug-1080p-not-24-7",
+    "name": "TV UG (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pxkDpTU.jpeg",
+    "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tv-ujat-720p-not-24-7",
+    "name": "TV UJAT (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/4demWOi.png",
+    "url": "https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tvp-culiacan-720p-not-24-7",
+    "name": "TVP Culiacan (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tvp-los-mochis-720p-not-24-7",
+    "name": "TVP Los Mochis (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tvp-mazatlan-720p-not-24-7",
+    "name": "TVP Mazatlan (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-tvp-obregon-720p-not-24-7",
+    "name": "TVP Obregon (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/uX1S3kt.png",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-uaa-tv",
+    "name": "UAA TV",
+    "logo": "https://i.imgur.com/brCSiGh.png",
+    "url": "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-uacj-tv-not-24-7",
+    "name": "UACJ-TV [Not 24/7]",
+    "logo": "https://i.imgur.com/a1WaGTQ.jpeg",
+    "url": "https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-udg-tv-720p-not-24-7",
+    "name": "UDG TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/QKvINA6.png",
+    "url": "https://liveos.bytecazt.com/udgtv/streams/cfprivq23akg00a7ke2g_d306m7q9io6g00fsq3cg_.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-ultra-tv-puebla-720p-not-24-7",
+    "name": "Ultra TV Puebla (720p) [Not 24/7]",
+    "logo": "https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png",
+    "url": "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "mx-unison-tv-1080p-not-24-7",
+    "name": "Unison TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/7ixWRId.png",
+    "url": "https://stream.unison.mx/hls/unisontvatem.m3u8",
+    "group": "México"
+  },
+  {
+    "id": "es-3cat-cameres-del-temps",
+    "name": "3Cat Cameres del temps",
+    "logo": "https://i.imgur.com/zXy2kbe.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-3cat-exclusiu-1-1080p-geo-blocked",
+    "name": "3Cat Exclusiu 1 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/YQvLPT1.png",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-3cat-exclusiu-2-1080p-geo-blocked",
+    "name": "3Cat Exclusiu 2 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/YQvLPT1.png",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-3cat-exclusiu-3-1080p-geo-blocked",
+    "name": "3Cat Exclusiu 3 (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/YQvLPT1.png",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-3cat-plats-bruts",
+    "name": "3Cat Plats bruts",
+    "logo": "https://i.imgur.com/49ZENis.png",
+    "url": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-3catinfo",
+    "name": "3CatInfo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-7tv",
+    "name": "7TV",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "url": "https://especial7tv.gestec-video.com/hls/regional.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-7tv-cordoba",
+    "name": "7TV Cordoba",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "url": "https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-7tv-jaen",
+    "name": "7TV Jaen",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "url": "https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-7tv-jerez",
+    "name": "7TV Jerez",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "url": "https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-7tv-malaga",
+    "name": "7TV Malaga",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "url": "https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-7tv-sevilla",
+    "name": "7TV Sevilla",
+    "logo": "https://i.imgur.com/rnzMR9R.png",
+    "url": "https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-8-la-marina-tv-576p",
+    "name": "8 La Marina TV (576p)",
+    "logo": "https://i.imgur.com/BTJvvBK.png",
+    "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-9-la-loma-tv-1080p-geo-blocked",
+    "name": "9 la Loma TV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/WQP3el2.png",
+    "url": "https://9laloma.tv/live.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-12tv",
+    "name": "12tv",
+    "logo": "https://i.imgur.com/VSTgXsh.png",
+    "url": "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-24-horas",
+    "name": "24 Horas",
+    "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-24-horas-catalunya",
+    "name": "24 Horas Catalunya",
+    "logo": "https://i.ibb.co/21sXZ3GT/24h.png",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-28-kanala",
+    "name": "28 kanala",
+    "logo": "https://i.imgur.com/DyvK28q.png",
+    "url": "https://streaming.28kanala.eus/hls/z.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-like-gecko-chrome-120-0-0-0-safari-537-36-group-title-general-101tv-antequera-720p-geo-blocked",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",101tv Antequera (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/GzI3RC4.png",
+    "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-like-gecko-chrome-120-0-0-0-safari-537-36-group-title-general-101tv-cadiz-720p-geo-blocked",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",101tv Cadiz (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/GzI3RC4.png",
+    "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-like-gecko-chrome-120-0-0-0-safari-537-36-group-title-news-101tv-malaga-720p-geo-blocked",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"News\",101tv Malaga (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/GzI3RC4.png",
+    "url": "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-like-gecko-chrome-120-0-0-0-safari-537-36-group-title-general-101tv-sevilla-720p-geo-blocked",
+    "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",101tv Sevilla (720p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/GzI3RC4.png",
+    "url": "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-actualidad-360",
+    "name": "Actualidad 360",
+    "logo": "https://i.imgur.com/3YeTu0n.png",
+    "url": "https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "es-alacanti-tv-576p-not-24-7",
+    "name": "Alacanti TV (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pcWU6e1.png",
+    "url": "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-ana-y-los-7",
+    "name": "Ana y los 7",
+    "logo": "https://i.imgur.com/X5g6gXS.png",
+    "url": "https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-andromeda",
+    "name": "Andromeda",
+    "logo": "https://i.imgur.com/6ot2lmd.png",
+    "url": "https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-angel-tv-spanish",
+    "name": "Angel TV Spanish",
+    "logo": "https://i.imgur.com/qKLEGU7.png",
+    "url": "https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-anime-vision",
+    "name": "Anime Vision",
+    "logo": "https://i.imgur.com/pUpKznl.png",
+    "url": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-anime-vision-classics",
+    "name": "Anime Vision Classics",
+    "logo": "https://i.imgur.com/mTaiEE1.png",
+    "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-archivos-forenses",
+    "name": "Archivos Forenses",
+    "logo": "https://i.imgur.com/Pxrl9Ug.png",
+    "url": "https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-atlantico-television",
+    "name": "Atlantico Television",
+    "logo": "https://i.imgur.com/JB5QkAw.png",
+    "url": "https://live.atlanticotelevision.com/hls/hi/index.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "es-bailen-tv-720p-not-24-7",
+    "name": "Bailen TV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/a64hwzq.png",
+    "url": "http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-bbc-drama",
+    "name": "BBC Drama",
+    "logo": "https://i.imgur.com/HctHhLL.png",
+    "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-bcn-gospel-tv",
+    "name": "BCN Gospel TV",
+    "logo": "https://bcngospelchannel.com/wp-content/uploads/2025/09/bcn-gospel-channer-favicon.png",
+    "url": "https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-like-gecko-chrome-83-0-4103-97-safari-537-36-crkey-1-44-191160-group-title-news-bdn",
+    "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160\" group-title=\"News\",BDN",
+    "logo": "https://i.imgur.com/ktasO33.png",
+    "url": "https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-bom-cine-576p",
+    "name": "Bom Cine (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/960px-Logo-bom.svg.png",
+    "url": "https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "es-bon-dia-tv",
+    "name": "Bon Dia TV",
+    "logo": "https://i.imgur.com/VgRCu2U.png",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-btl-tv-netherlands",
+    "name": "BTL TV (Netherlands)",
+    "logo": "https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo",
+    "url": "https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-cadena-elite-720p-not-24-7",
+    "name": "Cadena Elite (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/3yeGDTP.png",
+    "url": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
+    "group": "Música"
+  },
+  {
+    "id": "es-canal-3-tv-biar-480p-not-24-7",
+    "name": "Canal 3 TV Biar (480p) [Not 24/7]",
+    "logo": "https://i.imgur.com/cnKCZkK.png",
+    "url": "https://avantstreaming.es/hls/canal3.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-4-mancha-centro-720p-not-24-7",
+    "name": "Canal 4 Mancha Centro (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/t3O3O9M.png",
+    "url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-10-emporda-360p-not-24-7",
+    "name": "Canal 10 Emporda (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ojQ6wzX.png",
+    "url": "https://ventdelnord.tv:8080/escala/directe.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-25-tv",
+    "name": "Canal 25 TV",
+    "logo": "https://i.imgur.com/p6YA5k0.png",
+    "url": "https://limited49.todostreaming.es/live/tvbarbastro-livestream.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-33-madrid",
+    "name": "Canal 33 Madrid",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/960px-Logo_Canal_33_Madrid_2025.jpg",
+    "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-45-576p",
+    "name": "Canal 45 (576p)",
+    "logo": "https://i.imgur.com/yEfSnGt.png",
+    "url": "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-56-576p-not-24-7",
+    "name": "Canal 56 (576p) [Not 24/7]",
+    "logo": "https://i.imgur.com/pwRVbCz.png",
+    "url": "https://videos.canal56.com/directe/stream/index.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-2000-720p-not-24-7",
+    "name": "Canal 2000 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/9RoBASf.png",
+    "url": "http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-diocesano-576p",
+    "name": "Canal Diocesano (576p)",
+    "logo": "https://i.imgur.com/uWhVKL3.png",
+    "url": "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-donana-720p-not-24-7",
+    "name": "Canal Donana (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/0WrKIxm.png",
+    "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-luz-television",
+    "name": "Canal Luz Television",
+    "logo": "https://i.imgur.com/H3JzQ1G.jpg",
+    "url": "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-malaga-rtv-720p-not-24-7",
+    "name": "Canal Malaga RTV (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/QSUOxtM.png",
+    "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-parlamento-360p-not-24-7",
+    "name": "Canal Parlamento (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/BUO0wH6.png",
+    "url": "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-san-roque-1080p-not-24-7",
+    "name": "Canal San Roque (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/SN9kFKh.png",
+    "url": "https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-sierra-de-cadiz-1080p-not-24-7",
+    "name": "Canal Sierra de Cadiz (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/94rn7pb.png",
+    "url": "https://s.emisoras.tv:8081/sierradecadiz/index.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-sur-2",
+    "name": "Canal Sur 2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png",
+    "url": "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-sur-andalucia",
+    "name": "Canal Sur Andalucia",
+    "logo": "https://i.imgur.com/lznnA4v.png",
+    "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canal-sur-noticias",
+    "name": "Canal Sur Noticias",
+    "logo": "https://i.imgur.com/A3JscwS.png",
+    "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-like-gecko-chrome-83-0-4103-97-safari-537-36-crkey-1-44-191160-group-title-general-canal-taronja-comarques-centrals-1080p-not-24-7",
+    "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160\" group-title=\"General\",Canal Taronja Comarques Centrals (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/RP8VcqZ.png",
+    "url": "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-like-gecko-chrome-83-0-4103-97-safari-537-36-crkey-1-44-191160-group-title-general-canal-taronja-osona-i-moianes-1080p-not-24-7",
+    "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160\" group-title=\"General\",Canal Taronja Osona i Moianes (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/RP8VcqZ.png",
+    "url": "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-like-gecko-chrome-83-0-4103-97-safari-537-36-crkey-1-44-191160-group-title-undefined-canal-terrassa",
+    "name": "like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160\" group-title=\"Undefined\",Canal Terrassa",
+    "logo": "https://i.imgur.com/5fc5ZyI.png",
+    "url": "https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-canalcosta",
+    "name": "CanalCosta",
+    "logo": "https://i.imgur.com/ap4FmYb.png",
+    "url": "https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-cazador-de-homicidas",
+    "name": "Cazador de Homicidas",
+    "logo": "https://i.imgur.com/hy6FJLe.png",
+    "url": "https://jmp2.uk/plu-60ed5fb9c4716d0007d180c5.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-cetelmon-tv-404p",
+    "name": "Cetelmon TV (404p)",
+    "logo": "https://i.imgur.com/GGn7itj.png",
+    "url": "http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-cine-friki",
+    "name": "Cine Friki",
+    "logo": "https://i.imgur.com/b3Ospym.png",
+    "url": "https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "es-cine-western-spain",
+    "name": "Cine Western (Spain)",
+    "logo": "https://i.imgur.com/2UROzSc.png",
+    "url": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "es-ciudades-del-ocio-tv",
+    "name": "Ciudades del Ocio TV",
+    "logo": "https://i.imgur.com/CTQgqsM.png",
+    "url": "https://cloudvideo.servers10.com:8081/8024/index.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-clan",
+    "name": "Clan",
+    "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
+    "url": "https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-cmm-tv",
+    "name": "CMM TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png",
+    "url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-condavision",
+    "name": "Condavision",
+    "logo": "https://i.imgur.com/dlrazec.png",
+    "url": "https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "es-congreso-de-los-diputados-1-360p-not-24-7",
+    "name": "Congreso de los Diputados 1 (360p) [Not 24/7]",
+    "logo": "https://i.imgur.com/3Qxpe72.png",
+    "url": "https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8",
+    "group": "España"
+  },
+  {
+    "id": "us-3abn-english",
+    "name": "3ABN English",
+    "logo": "https://i.imgur.com/16DMxP4.png",
+    "url": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-3abn-french",
+    "name": "3ABN French",
+    "logo": "https://i.imgur.com/B5gsM7m.png",
+    "url": "https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-3abn-kids",
+    "name": "3ABN Kids",
+    "logo": "https://i.imgur.com/z3npqO1.png",
+    "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-3abn-praise-him-music-network",
+    "name": "3ABN Praise Him Music Network",
+    "logo": "https://i.imgur.com/iBcqT8L.png",
+    "url": "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-3abn-proclaim-network",
+    "name": "3ABN Proclaim! Network",
+    "logo": "https://i.imgur.com/zUMUNhe.png",
+    "url": "https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-3tv-1080p-geo-blocked",
+    "name": "3TV (1080p) [Geo-blocked]",
+    "logo": "https://i.imgur.com/kQ1x2yK.png",
+    "url": "https://amg00312-amg00312c59-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c59-amgplt0022/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-24-hour-free-movies",
+    "name": "24 Hour Free Movies",
+    "logo": "https://i.imgur.com/iSVnzR1.png",
+    "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "us-30a-darcizzle-offshore",
+    "name": "30A Darcizzle Offshore",
+    "logo": "https://i.imgur.com/Q4l2uao.png",
+    "url": "https://30a-tv.com/darcizzle.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-30a-georgia-hollywood-review",
+    "name": "30A Georgia Hollywood Review",
+    "logo": "https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg",
+    "url": "https://30a-tv.com/gh.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-30a-golf-kingdom",
+    "name": "30A Golf Kingdom",
+    "logo": "https://i.imgur.com/Lv53nh4.png",
+    "url": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "us-30a-investment-pitch",
+    "name": "30A Investment Pitch",
+    "logo": "https://i.imgur.com/CKCtZo7.png",
+    "url": "https://30a-tv.com/feeds/xodglobal/30atv.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-30a-lionel-nation",
+    "name": "30A Lionel Nation",
+    "logo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
+    "url": "https://30a-tv.com/ln.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "us-30a-loomered-tv",
+    "name": "30A Loomered TV",
+    "logo": "https://cbs12.com/resources/media/0c1ecad8-fb09-4bb2-beaa-fc561dfe624a-small21x9_LoomerStill.jpg?1603419052801",
+    "url": "https://30a-tv.com/loomer.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-30a-luxe-life-discovered",
+    "name": "30A Luxe Life Discovered",
+    "logo": "https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg",
+    "url": "https://30a-tv.com/feeds/vidaa/luxelife.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-30a-music",
+    "name": "30A Music",
+    "logo": "https://i.imgur.com/gNWg9tl.png",
+    "url": "https://30a-tv.com/music.m3u8",
+    "group": "Música"
+  },
+  {
+    "id": "us-30a-ridiculous-tv",
+    "name": "30A Ridiculous TV",
+    "logo": "https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg",
+    "url": "https://30a-tv.com/feeds/720p/63.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-30a-sidewalks",
+    "name": "30A Sidewalks",
+    "logo": "https://i.imgur.com/HSdwqZN.png",
+    "url": "https://30a-tv.com/sidewalks.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-30a-television-channel",
+    "name": "30A Television Channel",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s",
+    "url": "https://30a-tv.com/feeds/masters/30atv.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-30a-the-beach-show",
+    "name": "30A The Beach Show",
+    "logo": "https://i.imgur.com/0j5Aget.png",
+    "url": "https://30a-tv.com/beachy.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-30a-tv-classic-movies",
+    "name": "30A TV Classic Movies",
+    "logo": "",
+    "url": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "us-30a-we-love-cars",
+    "name": "30A We Love Cars",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxroqfE_hvEApKMQx03sSYXPeEh4ClaF5QSa8XfRwJW_So3vfSN0CjqzxN30H-qEBswqU&usqp=CAU",
+    "url": "https://30a-tv.com/feeds/vidaa/cars.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-50-cent-action",
+    "name": "50 Cent Action",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png",
+    "url": "https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-70s-cinema",
+    "name": "70s Cinema",
+    "logo": "https://i.imgur.com/mgXeEE4.png",
+    "url": "https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "us-80s-rewind",
+    "name": "80s Rewind",
+    "logo": "https://i.imgur.com/nkEeYfI.png",
+    "url": "https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "us-90s-throwback",
+    "name": "90s Throwback",
+    "logo": "https://i.imgur.com/KoGko6M.png",
+    "url": "https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "us-like-gecko-chrome-81-0-4044-138-safari-537-36-edge-12-246-group-title-entertainment-a-e",
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246\" group-title=\"Entertainment\",A&E",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+    "url": "https://cache0.wonvt.st/live/0c4r73315dt0we0fitn3j/master.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-aastha-international-576p",
+    "name": "Aastha International (576p)",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Aastha_international.png/960px-Aastha_international.png",
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-like-gecko-chrome-81-0-4044-138-safari-537-36-edge-12-246-group-title-general-abc",
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246\" group-title=\"General\",ABC",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://cache0.wonvt.st/live/01qdodh1lghijw0ls22qa/master.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-kaal",
+    "name": "ABC KAAL",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-katc",
+    "name": "ABC KATC",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://amg01438-amg01438c4-vizio-us-10920.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-kero-tv",
+    "name": "ABC KERO-TV",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://amg01438-amg01438c13-vizio-us-10921.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-kgtv",
+    "name": "ABC KGTV",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://amg01438-amg01438c6-vizio-us-10897.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-kgun-tv",
+    "name": "ABC KGUN-TV",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://amg01438-amg01438c3-vizio-us-10813.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-kitv",
+    "name": "ABC KITV",
+    "logo": "https://i.imgur.com/pj0O5nu.png",
+    "url": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-kivi-tv",
+    "name": "ABC KIVI-TV",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://amg01438-amg01438c5-vizio-us-10929.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-kmgh-tv",
+    "name": "ABC KMGH-TV",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-krgv-tv",
+    "name": "ABC KRGV-TV",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-live.smil/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-kstp-tv",
+    "name": "ABC KSTP-TV",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-ktrk-tv",
+    "name": "ABC KTRK-TV",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://amg01438-amg01438c18-vizio-us-10901.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "us-abc-kxxv",
+    "name": "ABC KXXV",
+    "logo": "https://i.imgur.com/pvXZ8DX.png",
+    "url": "https://amg01438-amg01438c28-vizio-us-10893.playouts.now.amagi.tv/playlist.m3u8",
+    "group": "Estados Unidos"
+  },
+  {
+    "id": "deportes-5live",
+    "name": "5Live",
+    "logo": "https://i.imgur.com/0yr3yvd.png",
+    "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-5max",
+    "name": "5Max",
+    "logo": "https://i.postimg.cc/XNmh01pH/5sport-max-il.png",
+    "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-5plus",
+    "name": "5Plus",
+    "logo": "https://i.imgur.com/L3RA9Lv.png",
+    "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-5sport",
+    "name": "5Sport",
+    "logo": "https://i.imgur.com/Msfhpqd.png",
+    "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-5stars",
+    "name": "5Stars",
+    "logo": "https://i.imgur.com/IQtAKIa.png",
+    "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-a-spor-sd",
+    "name": "A Spor SD",
+    "logo": "https://i.imgur.com/ZhkZzLf.png",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-acc-digital-network",
+    "name": "ACC Digital Network",
+    "logo": "https://i.imgur.com/V6Kaqha.png",
+    "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-aci-sport-tv-sd",
+    "name": "ACI Sport TV SD",
+    "logo": "https://i.imgur.com/U8cHMOt.png",
+    "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-ado-tv",
+    "name": "ADO TV",
+    "logo": "https://i.imgur.com/pxFamLr.png",
+    "url": "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-africa-24-sport",
+    "name": "Africa 24 Sport",
+    "logo": "https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-al-iraqia-sport",
+    "name": "Al Iraqia Sport",
+    "logo": "https://i.imgur.com/DrrlxTO.png",
+    "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-american-ninja-warrior",
+    "name": "American Ninja Warrior",
+    "logo": "https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png",
+    "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-antenaplay-events-576p-not-24-7",
+    "name": "AntenaPlay Events (576p) [Not 24/7]",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145",
+    "url": "https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-antenasport",
+    "name": "AntenaSport",
+    "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
+    "url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-astrahan-ru-sport",
+    "name": "Astrahan.Ru Sport",
+    "logo": "https://i.imgur.com/BKaEtqL.png",
+    "url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-awapa-sports-tv-1080p-not-24-7",
+    "name": "Awapa Sports TV (1080p) [Not 24/7]",
+    "logo": "https://i.imgur.com/MNw5cJH.jpg",
+    "url": "https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-bahrain-sports-1-720p-not-24-7",
+    "name": "Bahrain Sports 1 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/fBpLsbC.png",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-bahrain-sports-2-720p-not-24-7",
+    "name": "Bahrain Sports 2 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/ZkuZmIo.png",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-band-sports",
+    "name": "Band Sports",
+    "logo": "https://i.imgur.com/EuPvzJe.png",
+    "url": "https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "deportes-bek-sports-west",
+    "name": "BEK Sports West",
+    "logo": "https://i.imgur.com/1l3t5jd.png",
+    "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
+    "group": "Deportes"
+  },
+  {
+    "id": "peliculas-4ever-cinema",
+    "name": "4ever Cinema",
+    "logo": "https://i.imgur.com/vFOgVbG.png",
+    "url": "http://stream.mcquack.net/258/index.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-maisum",
+    "name": "+MaisUm",
+    "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+    "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-abn-bible-movies-channel",
+    "name": "ABN Bible Movies Channel",
+    "logo": "https://i.imgur.com/NCqZdaL.png",
+    "url": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-action-24-1080p-not-24-7",
+    "name": "Action 24 (1080p) [Not 24/7]",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/88/Action24-logo-small.png",
+    "url": "http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-action-540p",
+    "name": "Action (540p)",
+    "logo": "https://i.imgur.com/Zv9VsVq.png",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/action/live.livx/playlist.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-adrenalina-pura-tv",
+    "name": "Adrenalina Pura TV",
+    "logo": "https://i.imgur.com/Pvid2iH.png",
+    "url": "https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-adrenalina-pura-tv-brazil",
+    "name": "Adrenalina Pura TV Brazil",
+    "logo": "https://i.imgur.com/Pvid2iH.png",
+    "url": "https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-afghan-nobel-movies",
+    "name": "Afghan Nobel Movies",
+    "logo": "https://i.ibb.co/zfdbVSm/logo-1.png",
+    "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-aflam",
+    "name": "Aflam",
+    "logo": "https://i.imgur.com/cTLj7Yt.png",
+    "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-afra-film",
+    "name": "Afra Film",
+    "logo": "",
+    "url": "https://afrafhls.wns.live/hls/stream.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-like-gecko-chrome-147-0-0-0-safari-537-36-group-title-movies-all-time-movies-576p",
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Movies\",All Time Movies (576p)",
+    "logo": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
+    "url": "https://fta.ektv.in/live/54/54_0.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-allo-cine",
+    "name": "Allo Cine",
+    "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg",
+    "url": "https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-alpha-cinema",
+    "name": "alpha Cinema",
+    "logo": "https://i.imgur.com/146OgfU.png",
+    "url": "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-alternatv-720p-not-24-7",
+    "name": "AlternaTV (720p) [Not 24/7]",
+    "logo": "https://tv.alterna.ar/alternatv.png",
+    "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-amedia-hit",
+    "name": "Amedia Hit",
+    "logo": "https://i.imgur.com/a8ZBGBw.png",
+    "url": "http://stream.mcquack.net/162/index.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-like-gecko-chrome-149-0-0-0-safari-537-36-group-title-movies-armenia-premium",
+    "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Armenia Premium",
+    "logo": "",
+    "url": "http://stream.mcquack.net/123/index.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-artflix-movie-classics",
+    "name": "ARTFLIX Movie Classics",
+    "logo": "https://i.imgur.com/5pOZQB4.png",
+    "url": "https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-asianet-cinema-576p",
+    "name": "Asianet Cinema (576p)",
+    "logo": "https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODASIANETCINEMAY2025MML/AVODASIANETCINEMAY2025MML-title-logo-en.png",
+    "url": "https://b-tr1.planetcast.in/asianet/master.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-asianet-movies-396p",
+    "name": "Asianet Movies (396p)",
+    "logo": "https://i.imgur.com/cps67hs.png",
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "peliculas-aurora-media-films",
+    "name": "Aurora Media Films",
+    "logo": "https://i.imgur.com/DVC5w6H.png",
+    "url": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+    "group": "Películas"
+  },
+  {
+    "id": "noticias-2gb",
+    "name": "2GB",
+    "logo": "https://i.ibb.co/jwM8DFG/2GB-1.png",
+    "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-3aw",
+    "name": "3AW",
+    "logo": "https://i.imgur.com/Z4MdB0S.png",
+    "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-4dmas-noticias-tv-1080p-not-24-7",
+    "name": "4Dmas Noticias TV (1080p) [Not 24/7]",
+    "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+    "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-like-gecko-chrome-147-0-0-0-safari-537-36-group-title-news-4tv-news-576p",
+    "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"News\",4TV News (576p)",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",
+    "url": "https://fta.ektv.in/live/647/master.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-6pr",
+    "name": "6PR",
+    "logo": "https://i.imgur.com/Q9iCxg1.png",
+    "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-6-tv-telugu-576p",
+    "name": "6 TV Telugu (576p)",
+    "logo": "https://i.imgur.com/l3EcRnZ.png",
+    "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-7-info",
+    "name": "7 Info",
+    "logo": "https://i.imgur.com/jcl1nNR.png",
+    "url": "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-7-news",
+    "name": "7 News",
+    "logo": "https://i.imgur.com/PTl92P5.png",
+    "url": "https://sscsott.com/7news/live/index.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-9-plus-news",
+    "name": "9 Plus News",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9plusnews.png",
+    "url": "https://stream.ottlive.co.in/9plusnews/index.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-13-siam-thai",
+    "name": "13 Siam Thai",
+    "logo": "https://i.imgur.com/FvEp1S2.png",
+    "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-24-7-canal-de-noticias",
+    "name": "24/7 Canal de Noticias",
+    "logo": "https://i.imgur.com/4hDCB1M.png",
+    "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-24-kanal",
+    "name": "24 Kanal",
+    "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
+    "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-24-news-576p",
+    "name": "24 News (576p)",
+    "logo": "https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png",
+    "url": "https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-24-news",
+    "name": "24 News",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png",
+    "url": "https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-24-tv",
+    "name": "24 TV",
+    "logo": "https://i.imgur.com/8FO41es.png",
+    "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-92-news",
+    "name": "92 News",
+    "logo": "https://i.imgur.com/eqKrL9S.png",
+    "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-99tv",
+    "name": "99TV",
+    "logo": "https://i.imgur.com/dZA4gel.png",
+    "url": "https://cdn.pishow.tv/ott/live/1211/master.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-360-720p-not-24-7",
+    "name": "360 (720p) [Not 24/7]",
+    "logo": "https://i.imgur.com/agn47sQ.png",
+    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-360-news",
+    "name": "360° News",
+    "logo": "https://i.imgur.com/YXDeX8q.png",
+    "url": "https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8",
+    "group": "Noticias"
+  },
+  {
+    "id": "noticias-365-news",
+    "name": "365 News",
+    "logo": "https://i.imgur.com/8I6PWof.png",
+    "url": "https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8",
+    "group": "Noticias"
+  }
+]
